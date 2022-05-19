@@ -1,5 +1,5 @@
 # D4GEN-Genopole Hackathon 2022
-#### This repository is meant for the participants of the [D4GEN Hackathon](https://genopole.agorize.com/en/challenges/d4gen-hackathon) hosted in EVRY (Paris Region) in Mai 2022 to share ideas, create issues, manage projects, publish materials, create code, etc.
+#### This repository is meant for the participants of the [D4GEN Hackathon](https://genopole.agorize.com/en/challenges/d4gen-hackathon) hosted at Télécom SudParis at Évry[https://www.telecom-sudparis.eu/] (Paris Region) in Mai 2022 to share ideas, create issues, manage projects, publish materials, create code, etc.
  
 - 👋 Hi, I’m @D4GEN-Genopole
 - 👀 I’m interested in Digital For Genomics
